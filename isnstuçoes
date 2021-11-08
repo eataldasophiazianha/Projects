@@ -1,0 +1,9 @@
+Criara uma database no arquivo database.jason contendo nome e idade
+
+- Ler o arquivo
+- Fazer uma Api
+- Fazer operações basicas
+  - POST -> /user -> criar
+  - GET -> /user -> buscar
+  - PUT -> /user -> editar
+  - DELETE -> /user -> deletar
